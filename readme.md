@@ -1,5 +1,3 @@
-## 淘宝 首页
+## shopping page
 
-> html + css
-
-开始学习前端做的淘宝主页
+> html + css + fullpage.js
